@@ -59,6 +59,11 @@ action=$(yad --fullscreen\
 	--button="!/home/sofya/Chocolate_school9/BASH/iconsnew/numbers/3.png":3\
 	--button="!/home/sofya/Chocolate_school9/BASH/iconsnew/numbers/4.png":4\
 	--button="!/home/sofya/Chocolate_school9/BASH/iconsnew/numbers/5.png":5\
+	--button="!/home/sofya/Chocolate_school9/BASH/iconsnew/numbers/6.png":6\
+	--button="!/home/sofya/Chocolate_school9/BASH/iconsnew/numbers/7.png":7\
+	--button="!/home/sofya/Chocolate_school9/BASH/iconsnew/numbers/8.png":8\
+	--button="!/home/sofya/Chocolate_school9/BASH/iconsnew/numbers/9.png":9\
+	--button="!/home/sofya/Chocolate_school9/BASH/iconsnew/numbers/10.png":10\
 	--button="!/home/sofya/Chocolate_school9/BASH/iconsnew/numbers/exit.png":0\
 )
 ret=$?
